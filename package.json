@@ -53,5 +53,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+   "mohnishaiab:registry": "https://npm.pkg.github.com"
+  }
 }
