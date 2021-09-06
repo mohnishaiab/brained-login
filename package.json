@@ -1,5 +1,5 @@
 {
-  "name": "@aiab-ventures/brained-login",
+  "name": "@mohnishaiab/brained-login",
   "version": "1.0.0",
   "main": "dist/brained-login.ssr.js",
   "browser": "dist/brained-login.esm.js",
@@ -55,6 +55,6 @@
   "license": "ISC",
   "description": "",
   "publishConfig": {
-   "aiab-ventures:registry": "https://npm.pkg.github.com"
+   "mohnishaiab:registry": "https://npm.pkg.github.com"
   }
 }
