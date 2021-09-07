@@ -1,6 +1,6 @@
 {
   "name": "@mohnishaiab/brained-login",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/brained-login.ssr.js",
   "browser": "dist/brained-login.esm.js",
   "module": "dist/brained-login.esm.js",
